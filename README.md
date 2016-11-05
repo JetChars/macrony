@@ -1,0 +1,2 @@
+# macrony
+Mac Initialization Automator
